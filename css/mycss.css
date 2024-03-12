@@ -1,0 +1,16 @@
+
+/*
+    這是CSS樣式註解,等同C/JAVA用法.
+    本區塊內放CSS設計樣式
+*/
+h1 {
+    color:#FF00C0;
+    font-weight: bolder;
+}
+p {
+    color:blueviolet;
+
+}
+
+
+
